@@ -43,5 +43,3 @@ plot(date, reached, cex=1)
 
 
 
-
-
